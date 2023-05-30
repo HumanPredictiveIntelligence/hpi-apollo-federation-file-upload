@@ -1,10 +1,10 @@
 {
-  "name": "@profusion/apollo-federation-upload",
-  "version": "4.0.0",
+  "name": "@humanpredictiveintelligence/hpi-apollo-federation-file-upload",
+  "version": "4.0.1",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "author": "Guilherme Iscaro (iscaro@profusion.mobi)",
-  "repository": "https://github.com/profusion/apollo-federation-file-upload",
+  "repository": "https://github.com/HumanPredictiveIntelligence/hpi-apollo-federation-file-upload.git",
   "license": "MIT",
   "private": false,
   "keywords": [
